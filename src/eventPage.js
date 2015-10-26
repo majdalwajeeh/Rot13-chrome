@@ -8,13 +8,8 @@ chrome.contextMenus.create(menuItem);
 
 function clickHandler(info, tab){
 	if(info.menuItemId == "rot13" && info.selectionText) {
-		// alert("this is a test");
+		alert("this is a test");
 		alert("it says: " + convertText(info.selectionText));
-		// alert("-------------------");
-		// alert("Info-------------------");
-		//alert(JSON.stringify(info));
-		// alert("Tab-------------------");
-		//alert(JSON.stringify(tab));
 	}
 }
 
