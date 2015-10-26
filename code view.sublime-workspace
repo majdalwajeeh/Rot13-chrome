@@ -51,7 +51,7 @@
 			"file": "src/eventPage.js",
 			"settings":
 			{
-				"buffer_size": 1641,
+				"buffer_size": 1461,
 				"line_ending": "Unix"
 			}
 		},
@@ -175,12 +175,12 @@
 	],
 	"file_history":
 	[
+		"/home/mj/Documents/_dev/Chrome Extensions/Rot13/src/popup.css",
 		"/home/mj/Documents/_dev/Chrome Extensions/Rot13/src/popup.js",
 		"/home/mj/Documents/_dev/Chrome Extensions/Rot13/todo.txt",
 		"/home/mj/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
 		"/home/mj/.config/sublime-text-3/Packages/Default/Default (Linux).sublime-keymap",
 		"/home/mj/Documents/_dev/Chrome Extensions/Rot13/Rot13.sublime-project",
-		"/home/mj/Documents/_dev/Chrome Extensions/Rot13/src/popup.css",
 		"/home/mj/Documents/_dev/Chrome Extensions/Rot13/popup.html",
 		"/home/mj/Documents/_dev/Chrome Extensions/Rot13/popup.js",
 		"/home/mj/Documents/_dev/Chrome Extensions/Rot13/popup.css",
@@ -233,7 +233,7 @@
 	"groups":
 	[
 		{
-			"selected": 2,
+			"selected": 4,
 			"sheets":
 			[
 				{
@@ -294,7 +294,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 2,
+					"stack_index": 4,
 					"type": "text"
 				},
 				{
@@ -303,15 +303,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1641,
+						"buffer_size": 1461,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								484,
-								484
+								1461,
+								1461
 							]
 						],
 						"settings":
@@ -320,11 +320,11 @@
 							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
 							"translate_tabs_to_spaces": false
 						},
-						"translation.x": 0.0,
+						"translation.x": -0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 2,
 					"type": "text"
 				},
 				{
@@ -340,8 +340,8 @@
 						"selection":
 						[
 							[
-								236,
-								236
+								2310,
+								2310
 							]
 						],
 						"settings":
@@ -350,7 +350,7 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 1596.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 1,
@@ -381,7 +381,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 4,
+					"stack_index": 0,
 					"type": "text"
 				}
 			]
@@ -461,9 +461,13 @@
 	"select_project":
 	{
 		"height": 500.0,
-		"last_filter": "conf",
+		"last_filter": "config",
 		"selected_items":
 		[
+			[
+				"config",
+				"~/Documents/_dev/Chrome Extensions/Rot13/config view.sublime-workspace"
+			],
 			[
 				"conf",
 				"~/Documents/_dev/Chrome Extensions/Rot13/config view.sublime-workspace"
@@ -474,10 +478,6 @@
 			],
 			[
 				"rot confi",
-				"~/Documents/_dev/Chrome Extensions/Rot13/config view.sublime-workspace"
-			],
-			[
-				"config",
 				"~/Documents/_dev/Chrome Extensions/Rot13/config view.sublime-workspace"
 			],
 			[

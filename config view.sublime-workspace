@@ -35,7 +35,7 @@
 			"file": "src/manifest.json",
 			"settings":
 			{
-				"buffer_size": 260,
+				"buffer_size": 386,
 				"line_ending": "Unix"
 			}
 		}
@@ -47,8 +47,8 @@
 	"build_varint": "",
 	"command_palette":
 	{
-		"height": 55.0,
-		"last_filter": "ssjson",
+		"height": 76.0,
+		"last_filter": "",
 		"selected_items":
 		[
 			[
@@ -130,6 +130,7 @@
 	],
 	"file_history":
 	[
+		"/home/mj/Documents/_dev/Chrome Extensions/Rot13/todo.txt",
 		"/home/mj/Documents/_dev/Chrome Extensions/Rot13/src/popup.css",
 		"/home/mj/Documents/_dev/Chrome Extensions/Rot13/popup.html",
 		"/home/mj/Documents/_dev/Chrome Extensions/Rot13/popup.js",
@@ -189,21 +190,23 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 260,
+						"buffer_size": 386,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								260,
-								260
+								158,
+								158
 							]
 						],
 						"settings":
 						{
 							"auto_complete": true,
-							"syntax": "Packages/JavaScript/JSON.tmLanguage"
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -281,9 +284,17 @@
 	"select_project":
 	{
 		"height": 500.0,
-		"last_filter": "code",
+		"last_filter": "mind",
 		"selected_items":
 		[
+			[
+				"mind",
+				"~/Documents/_dev/Chrome Extensions/MindfulMoments/MindfulMoments.sublime-project"
+			],
+			[
+				"rot13 cod",
+				"~/Documents/_dev/Chrome Extensions/Rot13/code view.sublime-workspace"
+			],
 			[
 				"code",
 				"~/Documents/_dev/Chrome Extensions/Rot13/code view.sublime-workspace"
