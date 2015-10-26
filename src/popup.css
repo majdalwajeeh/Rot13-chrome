@@ -1,0 +1,12 @@
+
+h3 {
+	color:blue;
+}
+
+#successMessage {
+	color: green;
+}
+
+#errorMessage {
+	color: red;
+}

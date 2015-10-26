@@ -1,0 +1,21 @@
+{
+  "manifest_version": 2,
+
+  "name": "Rot13",
+  "description": "This extension allows the user to convert text to and from Rot13 format",
+  "version": "1.0",
+
+  "browser_action": {
+    "default_icon": "images/icon.png",
+    "default_popup": "popup.html"
+  },
+
+  "background" : {
+  	"scripts" : ["eventPage.js"],
+  	"persistent" : false
+  },
+
+  "permissions" : [
+  	"contextMenus"
+  ]
+}

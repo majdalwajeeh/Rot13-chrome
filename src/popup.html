@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Rot13 extension</title>
+	<link rel="stylesheet" type="text/css" href="popup.css" />
+</head>
+<body>
+	<h3>Rot13</h3>
+	<p>Type your text and <strong>Convert</strong></p>
+	<input id="mytext" type="text" />
+	<input id="convertButton" type="button" value="Convert" />
+	<input id="clearButton" type="button" value="Clear" />
+	<p id="successMessage"></p>
+	<p id="errorMessage"></p>
+
+	<!-- import scripts at the end of the page to ensure all the elements have loaded (alternately, await the DOM load event) -->
+	<script type="text/javascript" src="popup.js"></script>
+</body>
+</html>
